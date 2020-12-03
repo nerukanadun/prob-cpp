@@ -4,9 +4,7 @@ Classes in C++ are user defined types declared with keyword class that has data 
 
 It also has access specifiers, which restrict the access of member elements. The primarily used ones are the following:
 
-public: Public members (variables, methods) can be accessed from anywhere the code is visible.
-private: Private members can be accessed only by other member functions, and it can not be accessed outside of class.
-Class can be represented in the form of
+
 
 class ClassName {
     access_specifier1:
