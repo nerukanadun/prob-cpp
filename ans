@@ -20,7 +20,10 @@ public:
     {
         age = newAge;
     }
-   
+    void set_standard(int newStandard)
+    {
+        standard = newStandard;
+    }
     void set_first_name(string newFirst_name)
     {
         first_name = newFirst_name;
